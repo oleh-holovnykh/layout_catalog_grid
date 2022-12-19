@@ -1,6 +1,9 @@
 .catalog {
   display: grid;
   gap: 48px;
+  max-width: max-content;
+  margin: 0 auto;
+
 
   &__card {
     display: flex;
